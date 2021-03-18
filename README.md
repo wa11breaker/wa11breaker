@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ashay Asok
+- 👋 Hi, I’m Akshay Asok
 - 👀 I’m interested in flutter, dart and go
 - 🌱 I’m currently learning go
 - 💞️ I’m looking to collaborate on flutter
