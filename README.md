@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Akshay Asok
 - 👀 I’m interested in flutter, dart, go, lua, neovim, and tmux
-- 🌱 I’m currently learning go
 - 💞️ I’m looking to collaborate on flutter and go
 - 📫 How to reach me akshayasok1998@gmail.com
 
