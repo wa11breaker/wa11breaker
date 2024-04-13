@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Akshay Asok
 - 👀 I’m interested in flutter, dart, go, lua, neovim, and tmux
 - 💞️ I’m looking to collaborate on flutter and go
-- 📫 How to reach me akshayasok1998@gmail.com
 
 <!---
 wa11breaker/wa11breaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
